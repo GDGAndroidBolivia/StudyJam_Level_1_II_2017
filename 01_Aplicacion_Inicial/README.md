@@ -1,7 +1,7 @@
-# Aplicacion basica inicial.
+# Aplicación básica inicial.
 
 
-En este repositorio se encuentra el proyecto inicial que se llevo a cabo en el curso.
+En este repositorio se encuentra el proyecto inicial que se llevó a cabo en el curso.
 Contenido del **Study Jam Android Development for Beginners** por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
 
 
