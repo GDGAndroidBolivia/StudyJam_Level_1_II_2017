@@ -12,6 +12,7 @@ En este repositorio encontraras todo el codigo fuente que se desarrollo en el cu
 ## Contenido
 
 * [x] 01_Aplicacion_Inicial
+	<pre>Aplicacion con los componentes basicos de una aplicacion Android y el clasico 'Hola mundo'.</pre>
 * [ ] 02_Views
 * [ ] 03_Views_ViewGroups
 * [ ] 04_Custom_Views
