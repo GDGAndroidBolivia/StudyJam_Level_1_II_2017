@@ -15,6 +15,6 @@ Contenido del **Study Jam Android Development for Beginners** por el [GDG Androi
 
 <div align="center">
     <center>
-        <img src="/img/captura.png" width="300">
+        <img src="/img/capture.png" width="300">
     </center>
 </div>
