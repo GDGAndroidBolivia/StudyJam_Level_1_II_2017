@@ -18,3 +18,5 @@ Contenido del **Study Jam Android Development for Beginners** por el [GDG Androi
         <img src="/img/capture.png" width="300">
     </center>
 </div>
+
+@Gusn8
