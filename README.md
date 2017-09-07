@@ -11,7 +11,7 @@ En este repositorio encontraras todo el codigo fuente que se desarrollo en el cu
 
 ## Contenido
 
-* [ ] 01_Aplicacion_Inicial
+* [x] 01_Aplicacion_Inicial
 * [ ] 02_Views
 * [ ] 03_Views_ViewGroups
 * [ ] 04_Custom_Views
