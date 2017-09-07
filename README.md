@@ -6,13 +6,13 @@
     </center>
 </div>
 
-En este repositorio encontraras todo el codigo fuente que se desarrollo en el curso de Android: **Study Jam - Android Development for Beginners** llevado a cabo por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
+En este repositorio encontrarás todo el código fuente que se desarrollo en el curso de Android: **Study Jam - Android Development for Beginners** llevado a cabo por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
 
 
 ## Contenido
 
 * [x] 01_Aplicacion_Inicial
-	<pre>Aplicacion con los componentes basicos de una aplicacion Android y el clasico 'Hola mundo'.</pre>
+	<pre>Aplicación con la configuración básica de una aplicación móvil Android y el clásico 'Hola mundo'.</pre>
 * [ ] 02_Views
 * [ ] 03_Views_ViewGroups
 * [ ] 04_Custom_Views
