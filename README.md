@@ -2,7 +2,7 @@
 
 <div align="center">
     <center>
-        <img src="img/studyjam.png" width="90%">
+        <img src="img/studyjam.png" width="60%">
     </center>
 </div>
 
@@ -11,18 +11,18 @@ En este repositorio encontraras todo el codigo fuente que se desarrollo en el cu
 
 ## Contenido
 
-<input type="checkbox" checked>01_Aplicacion_Inicial<br>
-<input type="checkbox" checked>02_Views<br>
-<input type="checkbox" checked>03_Views_ViewGroups<br>
-<input type="checkbox" checked>04_Custom_Views<br>
-<input type="checkbox" checked>05_Interaccion_Java<br>
-<input type="checkbox" checked>06_Activities<br>
-<input type="checkbox" checked>07_Intents<br>
-<input type="checkbox" checked>08_Listas<br>
-<input type="checkbox" checked>09_RecyclerView_Cards<br>
-<input type="checkbox" checked>10_Animaciones<br>
-<input type="checkbox" checked>11_Multimedia<br>
-<input type="checkbox" checked>12_Persistencia<br>
+* [ ] 01_Aplicacion_Inicial
+* [ ] 02_Views
+* [ ] 03_Views_ViewGroups
+* [ ] 04_Custom_Views
+* [ ] 05_Interaccion_Java
+* [ ] 06_Activities
+* [ ] 07_Intents
+* [ ] 08_Listas
+* [ ] 09_RecyclerView_Cards
+* [ ] 10_Animaciones
+* [ ] 11_Multimedia
+* [ ] 12_Persistencia
 
 
 ## Requerimientos
